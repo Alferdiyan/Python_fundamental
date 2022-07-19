@@ -1,4 +1,4 @@
-# Dasar Sintaksis perulangan membaca buku
+# Program perulangan membaca buku dengan for
 
 jumlah_buku = 100
 print('Ibu berkata, "baca semua bukumu"')
